@@ -1,2 +1,0 @@
-# INITweekend
-INIT Weekend Hacks
